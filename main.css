@@ -14,10 +14,14 @@ body {
     flex: 1;
     resize: none;
     margin: 200px;
+    padding: 10px;
+    font-size: 2em;
 }
 
 #dp-text {
     flex: 1;
     resize: none;
     margin: 200px;
+    padding: 10px;
+    font-size: 2em;
 }
